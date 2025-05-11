@@ -77,10 +77,6 @@
 
 <br>
 
-## 🪴 Практика и стажировка
-
-
-<br>
 
 ## 🎒 Образование
 [<img src="/baseen.png" width="280px" hspace="10px" alt="Сертификат об окончании курса basic»">](https://raw.githubusercontent.com/LosewIlya/LosewIlya/refs/heads/main/baseen.png)
