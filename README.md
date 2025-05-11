@@ -1,4 +1,4 @@
-## Hi there 👋
+## Если код работает — это временно. Если не работает — это мой момент славы. QA engineer on duty.🛠️💥
 
 <!--
 **LosewIlya/LosewIlya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
