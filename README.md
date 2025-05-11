@@ -92,8 +92,8 @@
 <br>
 
 ## 🤝 Контакт
-[![Discord]<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="32" height="32" alt="Discord Icon">](mailto:losewilya)
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="32" height="32" alt="Discord Icon">](mailto:losewilya)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)(mailto:german@dolnikov.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
